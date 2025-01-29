@@ -1,4 +1,4 @@
-# 2024_2025_5ISS_BOUKOUISS_BIGOT_BRUNETTO_HENRIET_JOBARD_GAS_SENSOR
+# MOSH - Conception and characterization of a gas sensor
 
 ## Introduction
 
